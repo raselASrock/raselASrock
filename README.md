@@ -33,7 +33,7 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raselASrock&show_icons=true)  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raselASrock)  
 
-![GitHub metrics](https://metrics.lecoq.io/raselASrock)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raselASrock)  
 
